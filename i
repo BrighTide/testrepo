@@ -1,3 +1,3 @@
-LINE ONE
-	LINE TWO
-	LINE THREE
+function x() {
+	console.log(1)
+}
